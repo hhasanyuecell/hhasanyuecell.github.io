@@ -4,27 +4,16 @@ title: About Me
 permalink: /about/
 tags: about
 flicker: true
-headshot: /images/headshot.jpg
+headshot: /images/IMG_2438.jpeg
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
+### Where I'm from
+🇹🇷 I was born and raised in a once quiet neighborhood on the west side of Istanbul. Towards the end of my 18th year I came to Germany for my university education, which I am still doing.
 
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
+### What I do now
+I am a Media Informatics student at [Bauhaus University Weimar](https://www.uni-weimar.de/de/universitaet/start/) in Weimar.
 
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
-
-{% if site.show_talks_section %}
-## Talks
-
-- Put something here!
-{% endif %}
-
-{% if site.show_workshops_section %}
-## Workshops
-
-- Put something here!
-{% endif %}
-
+My main goal is to combine computer science with social sciences.
 
 <style>
 .post-header, #talks, #workshops {
