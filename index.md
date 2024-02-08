@@ -5,4 +5,4 @@ tags: home
 
 # 🖐️Hey, <br/>I'm Hasan Yücel.
 
-### I'm a media informatics student.
+### I'm a computer science and media student.
